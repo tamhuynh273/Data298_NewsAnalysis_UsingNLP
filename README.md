@@ -15,8 +15,8 @@ After rigorous evaluation processes, this research has found that ERNIE is the b
 Final report: 
 https://docs.google.com/document/d/1rjq-kfY2SytBuIcUUq158bfrAr-Z40aHt4EbEBgh5Pc/edit?usp=drive_link
 
-<br>
-### Contribution
+
+### Contribution <br>
 - Dhruv Jain <br>
 - Edward Montoya - Summarization task <br>
 - Nghi Nguyen - NER task <br>
