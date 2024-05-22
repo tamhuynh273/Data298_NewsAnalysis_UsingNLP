@@ -16,10 +16,10 @@ Final report:
 https://docs.google.com/document/d/1rjq-kfY2SytBuIcUUq158bfrAr-Z40aHt4EbEBgh5Pc/edit?usp=drive_link
 
 <br>
-### Contribution:
-- Dhruv Jain
-- Edward Montoya - Summarization task
-- Nghi Nguyen - NER task
-- Tam Huynh - Multiclass classification task
+### Contribution: <br>
+- Dhruv Jain <br>
+- Edward Montoya - Summarization task <br>
+- Nghi Nguyen - NER task <br>
+- Tam Huynh - Multiclass classification task <br>
 
 
