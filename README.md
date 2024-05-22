@@ -12,6 +12,9 @@ Several researchers have been applying a diversity of Natural Language Processin
 After rigorous evaluation processes, this research has found that ERNIE is the best model for Text Classification task with 85.34% accuracy, ELECTRA is the best performance of 98.65% accuracy for Named Entity Recognition task, and Flan-T5-Small has reached 0.3438 in Rouge-1 and 0.3280 in Rouge-L for Abstractive Summarization task. This endeavor not only showcases the versatility of state-of-the-art NLP models, but also culminates in the delivery of an advanced news analyzing application.
 <br>
 <br>
+Data source: https://drive.google.com/drive/folders/1FWeNFkPerMoNqxJkAijIn8gNtKg_CGjQ?usp=drive_link
+<br>
+<br>
 Final report: 
 https://docs.google.com/document/d/1rjq-kfY2SytBuIcUUq158bfrAr-Z40aHt4EbEBgh5Pc/edit?usp=drive_link
 
